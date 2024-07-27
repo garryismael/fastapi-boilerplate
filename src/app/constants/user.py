@@ -1,0 +1,7 @@
+EMAIL_ALREADY_REGISTERED = "Email is already registered."
+USERNAME_NOT_AVAILABLE = "Username not available"
+USER_NOT_AUTHENTICATED = "User not authenticated."
+USER_FORBIDDEN = "You do not have enough privileges."
+USER_UNAUTHORIZED = "Wrong username, email or password."
+USER_NOT_FOUND = "User not Found."
+USER_DELETED = "User deleted."
